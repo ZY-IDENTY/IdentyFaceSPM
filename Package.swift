@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "IdentyFaceSPM",
-            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/identy/identyFace/7.3.2/IdentyFace.xcframework.zip",
-            checksum: "41cd180b08db4ab998f76f316b90adb5fe05110c0a4ff396c1d768ef9d245c95"
+            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/identy/identyFace/7.1.2/IdentyFace.xcframework.zip",
+            checksum: "0c8666366c6b6b9402c107ab93f68437cc8f60b6a6c8a2a738a9b1cfc648de78"
         )
     ]
 )
